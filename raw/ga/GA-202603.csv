@@ -1,0 +1,346 @@
+# ----------------------------------------
+# Istantanea report
+# Account: Default Account for Firebase
+# Proprietà: rugbyradioliveweb
+# ----------------------------------------
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Utenti attivi,Nuovi utenti,Durata media del coinvolgimento per utente attivo,Conteggio eventi
+142,133,215.85211267605635,4840
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Titolo pagina e classe schermata,Visualizzazioni,Utenti attivi,Conteggio eventi,Frequenza di rimbalzo
+Rugby Radio Live,694,134,2121,0.36585365853658536
+Match | Rugby Radio Live,186,11,1078,0.07407407407407407
+Radio | Rugby Radio Live,128,9,412,0.06666666666666667
+Login | Rugby Radio Live,79,11,222,0.1724137931034483
+Rugby Radio Live — Blog,57,4,122,0.3888888888888889
+Rugby Match Reports — AI,27,2,49,0.2222222222222222
+Partita | Rugby Radio Live,17,4,242,0.4375
+Report Partite di Rugby — AI,17,2,32,0.2
+News | Rugby Radio Live,13,2,40,0.25
+Your Radios | Rugby Radio Live,11,1,74,0
+AI-Talkers | Rugby Radio Live,8,3,25,0.25
+Les Hérauts de l’Oeil de Fer - Les Guépards de l'Artemide,8,1,17,0
+Tutorial | Rugby Radio Live,8,1,24,0
+Matches | Rugby Radio Live,7,8,70,0.06666666666666667
+Report Partite di Rugby — AI — Page 2,7,1,12,0
+Team | Rugby Radio Live,6,1,34,0
+Blog | Rugby Radio Live,5,3,14,0.4
+Radios | Rugby Radio Live,5,15,72,0.17391304347826086
+Echo Rift Raiders - Solar Storm Braves,4,2,8,0
+Profile | Rugby Radio Live,4,1,12,0
+Amandla Amangalisayo - Umkhonto Warriors,3,2,5,0
+Bookmarks | Rugby Radio Live,3,1,14,0
+Glimmering Stormblades - Obsidian Thrust,3,1,6,0
+Register | Rugby Radio Live,3,5,44,0
+Why RRL | Rugby Radio Live,3,1,9,0
+Amandla Amangalisayo - Izintaba Zobusa,2,1,4,0
+Danger | Rugby Radio Live,2,1,7,0
+Dragões de Pedra Lunar - Céu de Lâminas,2,1,4,0
+Registrati | Rugby Radio Live,2,1,17,0
+Report Partite di Rugby — AI — #2,2,1,4,0
+Report Partite di Rugby — AI — #3,2,2,4,0
+Write us | Rugby Radio Live,2,1,9,0
+Informes de Partidos de Rugby — IA,1,1,2,0
+Les Phénix de l'Acier - Les Panthères de la Mer,1,1,2,0
+Prova - Prova 2,1,1,2,0
+Rapports de Matchs de Rugby — IA,1,1,2,0
+Rapports de Matchs de Rugby — IA — #3,1,1,2,0
+Rugby Radio en direct,1,1,4,1
+Terms | Rugby Radio Live,1,1,3,0
+Connexion | Rugby Radio Live,0,1,1,0
+Matchs | Rugby Radio Live,0,1,3,0
+Partite | Rugby Radio Live,0,3,6,0
+Profilo | Rugby Radio Live,0,1,2,0
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Sorgente/Mezzo della prima interazione dell'utente,Utenti attivi
+google / organic,93
+(direct) / (none),40
+bing / organic,2
+duckduckgo / organic,2
+facebook.com / referral,2
+m.facebook.com / referral,2
+ecosia.org / organic,1
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Categoria del dispositivo,Utenti attivi
+mobile,109
+desktop,36
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Paese,Utenti attivi
+Italy,23
+United States,18
+Ireland,14
+France,12
+United Kingdom,12
+Spain,11
+Canada,6
+Australia,5
+South Africa,5
+Germany,4
+Austria,3
+Cyprus,3
+New Zealand,3
+Sweden,3
+Albania,2
+Belgium,2
+Malta,2
+Netherlands,2
+Norway,2
+Ukraine,2
+Cape Verde,1
+China,1
+India,1
+Luxembourg,1
+Philippines,1
+Romania,1
+Russia,1
+Switzerland,1
+Tanzania,1
+Thailand,1
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Città,Utenti attivi
+Dublin,11
+Lainate,9
+Trieste,5
+Des Moines,4
+Milan,4
+Bilbao,3
+London,3
+Paris,3
+Rome,3
+Ashburn,2
+Bruck an der Leitha,2
+Cape Town,2
+Cork,2
+Corralejo,2
+Lulea,2
+Montreal,2
+Oslo Municipality,2
+Pretoria,2
+Sydney,2
+Tirana,2
+Toronto,2
+Valencia,2
+Verona,2
+Amsterdam,1
+Aspen,1
+Auckland,1
+Bangkok,1
+Barcelona,1
+Bath,1
+Belfast,1
+Berkeley,1
+Berlin,1
+Bordeaux,1
+Brasschaat,1
+Brescia,1
+Brisbane,1
+Bucharest,1
+Chamonix,1
+Dresden,1
+Dunblane,1
+Flint Hill,1
+Fort Worth,1
+Germiston,1
+Glasgow,1
+Gold Coast,1
+Hamilton,1
+Iligan City,1
+Kettering,1
+LaPlace,1
+Larnaca,1
+Le Havre,1
+Limoges,1
+Lishui,1
+Luxembourg,1
+Majorda,1
+Melbourne,1
+Melle,1
+Melun,1
+Miami,1
+Minneapolis,1
+Mons,1
+Murcia,1
+Naples,1
+Odesa,1
+Paphos,1
+Port Chester,1
+Praia,1
+Prineville,1
+Puerto del Carmen,1
+San Diego,1
+San Francisco,1
+Santa Cruz de Tenerife,1
+Southampton,1
+Springfield,1
+St. Paul's Bay,1
+Strasbourg,1
+Strovolos,1
+Tehachapi,1
+Towcester,1
+Tralee,1
+Turin,1
+Varberg,1
+Venice,1
+Vienna,1
+Volgograd,1
+Wellington,1
+Whitby,1
+Widnes,1
+Wiesbaden,1
+Zurich,1
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Modello dispositivo,Utenti attivi
+iPhone,52
+Pixel 7a,3
+SM-A566B,3
+M2102J20SG,2
+SM-A366B,2
+SM-G991B,2
+SM-S911B,2
+SM-S936B,2
+2201117TY,1
+22101316G,1
+23124RN87G,1
+24116RACCG,1
+A67L,1
+C2 2nd Edition,1
+CPH2579,1
+CPH2653,1
+ELI-NX9,1
+FNE-NX9,1
+Moto G Power (2022),1
+Moto G05,1
+Moto G34 5G,1
+Nexus 5,1
+Pixel 10,1
+Pixel 6a,1
+Pixel 7,1
+Pixel 8,1
+Pixel 8 Pro,1
+SM-A035F,1
+SM-A155F,1
+SM-A156B,1
+SM-A165F,1
+SM-A235F,1
+SM-A525F,1
+SM-A536B,1
+SM-A556B,1
+SM-F766B,1
+SM-G973F,1
+SM-G981B,1
+SM-S918B,1
+SM-S921B,1
+SM-S926B,1
+SM-S928B,1
+SM-S931B,1
+V2110,1
+WAVE 6C,1
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Sistema operativo,Utenti attivi
+Android,57
+iOS,52
+Windows,21
+Macintosh,11
+Linux,4
+Tizen,1
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Browser,Utenti attivi
+Chrome,89
+Safari,49
+Edge,3
+Samsung Internet,2
+Android Webview,1
+Firefox,1
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Risoluzione schermo,Utenti attivi
+390x844,15
+1920x1080,13
+393x852,12
+384x832,11
+360x780,8
+1536x960,7
+375x667,7
+360x800,6
+412x915,6
+320x693,4
+375x812,4
+393x873,4
+430x932,4
+440x956,3
+1280x1200,2
+1440x900,2
+1470x956,2
+2000x2000,2
+320x568,2
+320x712,2
+360x806,2
+376x835,2
+384x854,2
+402x874,2
+414x896,2
+800x600,2
+820x1180,2
+1032x1376,1
+1280x720,1
+1496x967,1
+1536x864,1
+2560x1440,1
+320x640,1
+320x687,1
+320x704,1
+321x711,1
+339x716,1
+339x753,1
+360x840,1
+384x857,1
+385x854,1
+412x823,1
+412x892,1
+412x906,1
+412x917,1
+412x924,1
+428x926,1
+448x998,1
+834x1112,1
+854x384,1
+
+#  
+# Data di inizio: 20260301
+# Data di fine: 20260331
+Lingua,Utenti attivi
+English,104
+Italian,18
+French,11
+Spanish,4
+Dutch,2
+German,2
+Basque,1

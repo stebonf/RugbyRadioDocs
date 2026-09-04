@@ -1,0 +1,374 @@
+# ----------------------------------------
+# Panoramica di Firebase
+# Account: Default Account for Firebase
+# Proprietà: rugbyradioliveweb
+# ----------------------------------------
+# Qual è la tendenza degli utenti attivi?
+# Data di inizio: 20260401
+# Data di fine: 20260430
+N° giorno,30 giorni,7 giorni,1 giorno
+0000,137,16,1
+0001,134,15,2
+0002,134,11,1
+0003,135,10,2
+0004,127,14,6
+0005,98,17,5
+0006,98,17,5
+0007,100,21,5
+0008,99,21,1
+0009,102,25,7
+0010,108,29,8
+0011,112,29,5
+0012,75,28,5
+0013,71,27,2
+0014,71,24,1
+0015,73,27,6
+0016,78,30,12
+0017,81,29,7
+0018,80,28,5
+0019,78,28,5
+0020,78,30,5
+0021,77,30,3
+0022,80,30,6
+0023,83,24,7
+0024,87,24,8
+0025,90,32,14
+0026,89,32,3
+0027,93,33,6
+0028,93,34,1
+0029,96,33,3
+
+#  
+# Data di inizio: 20260401
+# Data di fine: 20260430
+N° giorno
+
+
+#  
+# Data di inizio: 20260401
+# Data di fine: 20260430
+App,Versione,Stato
+
+
+#  
+# Data di inizio: 20260430
+# Data di fine: 20260430
+App,Utenti che non hanno sperimentato arresti anomali
+
+
+# Data di inizio: 20260429
+# Data di fine: 20260429
+App,Utenti che non hanno sperimentato arresti anomali
+
+
+#  
+# Data di inizio: 20260401
+# Data di fine: 20260430
+N° giorno,Durata media del coinvolgimento per utente attivo
+0000,1575
+0001,3.5
+0002,1
+0003,3.5
+0004,70.16666666666667
+0005,121.4
+0006,653
+0007,678.8
+0008,43
+0009,163.14285714285714
+0010,80.125
+0011,202.4
+0012,566.4
+0013,968.5
+0014,1619
+0015,144
+0016,263.1666666666667
+0017,169.28571428571428
+0018,246.8
+0019,464.2
+0020,276
+0021,380
+0022,356.6666666666667
+0023,171.57142857142858
+0024,554.625
+0025,37
+0026,24
+0027,32.833333333333336
+0028,0
+0029,0
+
+# Data di inizio: 20260401
+# Data di fine: 20260430
+N° giorno,Sessioni con coinvolgimento per utente attivo
+0000,4
+0001,1
+0002,1
+0003,0.5
+0004,0.6666666666666666
+0005,0.8
+0006,2.4
+0007,2.6
+0008,1
+0009,0.8571428571428571
+0010,1
+0011,1
+0012,2
+0013,2.5
+0014,3
+0015,1.8333333333333333
+0016,0.8333333333333334
+0017,1.1428571428571428
+0018,0.4
+0019,2.2
+0020,0.6
+0021,1.6666666666666667
+0022,0.8333333333333334
+0023,1
+0024,1.75
+0025,1.2142857142857142
+0026,1.3333333333333333
+0027,0.3333333333333333
+0028,0
+0029,0.3333333333333333
+
+# Data di inizio: 20260401
+# Data di fine: 20260430
+N° giorno,Durata media del coinvolgimento per sessione
+0000,262.5
+0001,3.5
+0002,0.3333333333333333
+0003,3.5
+0004,70.16666666666667
+0005,86.71428571428571
+0006,272.0833333333333
+0007,242.42857142857142
+0008,43
+0009,163.14285714285714
+0010,58.27272727272727
+0011,202.4
+0012,283.2
+0013,322.8333333333333
+0014,539.6666666666666
+0015,72
+0016,197.375
+0017,107.72727272727273
+0018,246.8
+0019,154.73333333333332
+0020,230
+0021,190
+0022,267.5
+0023,150.125
+0024,316.92857142857144
+0025,25.9
+0026,14.4
+0027,32.833333333333336
+0028,0
+0029,0
+
+#  
+# Data di inizio: 20260320
+# Data di fine: 20260430
+Coorte,Utenti attivi
+0000,1
+0001,0
+0002,0.00909090909090909
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0.011111111111111112
+0008,0
+0009,0.024390243902439025
+0010,0.012195121951219513
+0011,0
+0012,0
+0013,0.013513513513513514
+0014,0.014285714285714285
+0015,0
+0016,0
+0017,0.017241379310344827
+0018,0.017543859649122806
+0019,0.018518518518518517
+0020,0.04
+0021,0.022727272727272728
+0022,0.05
+0023,0.05
+0024,0.05405405405405406
+0025,0.05714285714285714
+0026,0.06451612903225806
+0027,0
+0028,0.04
+0029,0
+0030,0
+0031,0
+0032,0
+0033,0
+0034,0
+0035,0
+0036,0
+0037,0
+0038,0
+0039,0
+0040,0
+0041,0
+
+# Quanto è efficace la tua strategia di fidelizzazione?
+# Data di inizio: 20260315
+# Data di fine: 20260425
+Data,Settimana 0,Settimana 1,Settimana 2,Settimana 3,Settimana 4,Settimana 5
+15 mar - 21 mar,15,0,0,0,0
+22 mar - 28 mar,15,1,1,1,0
+29 mar - 4 apr,6,2,1,2,-1
+5 apr - 11 apr,23,0,0,-1,-1
+12 apr - 18 apr,24,0,-1,-1,-1
+19 apr - 25 apr,21,-1,-1,-1,-1
+
+# Da dove proviene il tuo valore medio di 120 giorni?
+# Data di inizio: 20260401
+# Data di fine: 20260430
+Gruppo di canali principale del primo utente (Gruppo di canali predefinito),Valore medio a 120 giorni
+
+
+#  
+# Data di inizio: 20260401
+# Data di fine: 20260430
+Titolo pagina e classe schermata,Visualizzazioni
+Rugby Radio Live,3318
+Radio | Rugby Radio Live,682
+Partita | Rugby Radio Live,375
+Match | Rugby Radio Live,327
+Le tue Radio | Rugby Radio Live,105
+Partite | Rugby Radio Live,103
+Matches | Rugby Radio Live,82
+Radios | Rugby Radio Live,63
+Profilo | Rugby Radio Live,55
+Squadra | Rugby Radio Live,55
+Login | Rugby Radio Live,46
+Your Radios | Rugby Radio Live,31
+Profile | Rugby Radio Live,29
+Team | Rugby Radio Live,26
+Scrivici | Rugby Radio Live,23
+Preferiti | Rugby Radio Live,16
+Registrati | Rugby Radio Live,11
+Bookmarks | Rugby Radio Live,8
+Pericolo | Rugby Radio Live,8
+Register | Rugby Radio Live,6
+Rugby Radio Live — Blog,5
+Rugby Match Reports — AI,3
+Write us | Rugby Radio Live,3
+AI-Talkers | Rugby Radio Live,2
+Cascos de Fogo Selvagem - Leões de Jade Estruinte,1
+How-To | Rugby Radio Live,1
+Informes de Partidos de Rugby — IA,1
+Regístrate | Rugby Radio Live,1
+Report Partite di Rugby — AI,1
+Stellar Ironclad Vipers - Nova Charge Raptors,1
+Tutorial | Rugby Radio Live,1
+Why RRL | Rugby Radio Live,1
+登録 | Rugby Radio Live,1
+
+#  
+# Data di inizio: 20260401
+# Data di fine: 20260430
+Nome evento,Conteggio eventi
+page_view,5391
+home_viewed,1244
+user_engagement,1192
+match_opened,737
+commentary_started,702
+spectator_joined_match,463
+channel_viewed,373
+channel_editor_viewed,250
+session_start,233
+match_list_viewed,203
+commentary_ended,146
+channel_list_viewed,138
+channel_opened,124
+channels_viewed,122
+spectator_left_match,118
+training_commentary_started,97
+first_visit,90
+team_viewed,76
+profile_viewed,67
+login_viewed,41
+signup_started,40
+feedback_viewed,24
+scroll_to_top_clicked,21
+favorites_viewed,19
+channel_create_started,16
+login_completed,11
+channel_refreshed,8
+danger_viewed,8
+match_list_refreshed,5
+static_page_viewed,5
+reset_password_viewed,4
+channel_list_refreshed,3
+channel_list_searched,3
+channel_created,1
+commentary_message_sent,1
+home_try_commentary_click,1
+signup_completed,1
+training_channel_opened,1
+training_commentary_completed,1
+
+# Quali sono i tuoi eventi chiave con il rendimento migliore?
+# Data di inizio: 20260401
+# Data di fine: 20260430
+Nome evento,Eventi chiave
+
+
+#  
+# Data di inizio: 20260401
+# Data di fine: 20260430
+N° giorno,Entrate totali
+
+
+# Data di inizio: 20260401
+# Data di fine: 20260430
+N° giorno,Entrate generate dagli acquisti
+
+
+# Data di inizio: 20260401
+# Data di fine: 20260430
+N° giorno,Entrate pubblicitarie totali
+
+
+#  
+# Data di inizio: 20260401
+# Data di fine: 20260430
+N° giorno,Entrate medie generate dagli acquisti per utente attivo
+
+
+#  
+# Data di inizio: 20260401
+# Data di fine: 20260430
+ID Paese,Utenti attivi
+BE,1
+DE,5
+DZ,1
+ES,2
+FR,7
+GB,10
+IE,2
+IT,24
+NL,2
+NZ,1
+PL,1
+SG,26
+US,14
+
+# Data di inizio: 20260401
+# Data di fine: 20260430
+Paese,Utenti attivi
+SG,26
+IT,24
+US,14
+GB,10
+FR,7
+DE,5
+ES,2
+
+#  
+# Data di inizio: 20260401
+# Data di fine: 20260430
+Modello dispositivo,Utenti attivi
+

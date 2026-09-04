@@ -1,0 +1,218 @@
+# ----------------------------------------
+# Istantanea report
+# Account: Default Account for Firebase
+# Proprietà: rugbyradioliveweb
+# ----------------------------------------
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Utenti attivi,Nuovi utenti,Durata media del coinvolgimento per utente attivo,Conteggio eventi
+89,83,59.98876404494382,678
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Titolo pagina e classe schermata,Visualizzazioni,Utenti attivi,Conteggio eventi,Frequenza di rimbalzo
+Rugby Radio Live,194,62,439,0.48598130841121495
+Radio | Rugby Radio Live,29,22,85,0.6923076923076923
+Radios | Rugby Radio Live,28,5,50,0.125
+Match | Rugby Radio Live,15,11,65,0.35
+Blog | Rugby Radio Live,3,3,10,1
+Login | Rugby Radio Live,3,6,8,0
+Rugby Radio en direct,2,1,4,0
+Partita | Rugby Radio Live,1,1,4,0.5
+Preferiti | Rugby Radio Live,1,1,2,0
+Profilo | Rugby Radio Live,1,1,2,0
+Matches | Rugby Radio Live,0,3,3,0
+Partite | Rugby Radio Live,0,1,2,1
+Profile | Rugby Radio Live,0,1,1,0
+Scrivici | Rugby Radio Live,0,1,1,0
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Sorgente/Mezzo della prima interazione dell'utente,Utenti attivi
+(direct) / (none),34
+google / organic,23
+m.facebook.com / referral,21
+facebook.com / referral,11
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Categoria del dispositivo,Utenti attivi
+desktop,55
+mobile,35
+tablet,1
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Paese,Utenti attivi
+United States,32
+Ireland,11
+Italy,9
+United Kingdom,9
+Germany,8
+France,7
+Canada,2
+China,2
+South Africa,2
+Australia,1
+Chile,1
+Cyprus,1
+Hungary,1
+Japan,1
+Namibia,1
+Sweden,1
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Città,Utenti attivi
+Dublin,10
+Forest City,6
+Altoona,5
+Gallatin,5
+Fort Worth,4
+Milan,4
+Prineville,4
+Butzbach,3
+Como,3
+Lanzhou,2
+London,2
+Paris,2
+8517,1
+Angers,1
+Ashburn,1
+Banbury,1
+Boksburg,1
+Bordeaux,1
+Brighton and Hove,1
+Bristol,1
+Burton upon Trent,1
+Cardiff,1
+Cork,1
+Council Bluffs,1
+Des Moines,1
+Dusseldorf,1
+Farnham,1
+Frankfurt am Main,1
+Lainate,1
+Limassol,1
+Lulea,1
+Lyon,1
+Mandeville,1
+Montreal,1
+Pretoria,1
+Prince George,1
+Saint-Jean-de-Monts,1
+Saint-Raphael,1
+Seattle,1
+Springfield,1
+Sydney,1
+Tortoreto,1
+Vina del Mar,1
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Modello dispositivo,Utenti attivi
+iPhone,11
+M2102J20SG,2
+SM-A165F,2
+24090RA29G,1
+Action X5,1
+Armor 22,1
+CPH2305,1
+CPH2579,1
+Moto E15,1
+PGT-N19,1
+Pixel 5,1
+Pixel 6,1
+SM-A155F,1
+SM-A156B,1
+SM-A536B,1
+SM-F900U,1
+SM-G955U,1
+SM-S721B,1
+SM-S928B,1
+SM-S938B,1
+TB328FU,1
+V2507A,1
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Sistema operativo,Utenti attivi
+Linux,34
+Android,26
+Windows,13
+iOS,11
+Macintosh,8
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Browser,Utenti attivi
+Chrome,74
+Safari,11
+Samsung Internet,5
+Mozilla Compatible Agent,1
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Risoluzione schermo,Utenti attivi
+412x915,22
+2000x2000,11
+1920x1080,9
+384x832,6
+390x844,5
+393x852,4
+1280x1200,2
+1536x960,2
+320x568,2
+320x694,2
+375x667,2
+393x873,2
+800x600,2
+1280x1024,1
+1280x1280,1
+1280x800,1
+1440x900,1
+1536x864,1
+1710x1112,1
+1728x1117,1
+1792x1120,1
+2048x1280,1
+320x640,1
+360x740,1
+360x780,1
+360x803,1
+360x804,1
+360x806,1
+375x812,1
+375x814,1
+376x835,1
+384x854,1
+385x833,1
+385x858,1
+393x851,1
+412x892,1
+412x917,1
+414x896,1
+428x926,1
+800x1162,1
+800x1280,1
+820x1180,1
+884x1104,1
+
+#  
+# Data di inizio: 20260101
+# Data di fine: 20260131
+Lingua,Utenti attivi
+English,70
+French,10
+Italian,8
+Portuguese,1

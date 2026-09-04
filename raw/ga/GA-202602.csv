@@ -1,0 +1,315 @@
+# ----------------------------------------
+# Istantanea report
+# Account: Default Account for Firebase
+# Proprietà: rugbyradioliveweb
+# ----------------------------------------
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Utenti attivi,Nuovi utenti,Durata media del coinvolgimento per utente attivo,Conteggio eventi
+131,128,42.969465648854964,916
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Titolo pagina e classe schermata,Visualizzazioni,Utenti attivi,Conteggio eventi,Frequenza di rimbalzo
+Rugby Radio Live,306,127,810,0.48148148148148145
+Partita | Rugby Radio Live,9,3,29,0.2222222222222222
+Radios | Rugby Radio Live,6,9,23,0.1
+Rugby Radio en direct,3,3,10,0.5
+Register | Rugby Radio Live,2,2,6,0
+Login | Rugby Radio Live,1,5,9,0.4
+Match | Rugby Radio Live,1,6,10,0
+Matches | Rugby Radio Live,0,3,3,0
+Matchs | Rugby Radio Live,0,2,2,0
+Partite | Rugby Radio Live,0,2,3,0
+Profilo | Rugby Radio Live,0,1,2,1
+Radio | Rugby Radio Live,0,2,9,0.8
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Sorgente/Mezzo della prima interazione dell'utente,Utenti attivi
+google / organic,93
+(direct) / (none),30
+bing / organic,2
+facebook.com / referral,2
+ig / social,2
+m.facebook.com / referral,2
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Categoria del dispositivo,Utenti attivi
+mobile,99
+desktop,34
+tablet,1
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Paese,Utenti attivi
+Italy,22
+United Kingdom,20
+France,15
+United States,12
+Spain,11
+Ireland,7
+Germany,6
+Canada,5
+South Africa,4
+Belgium,2
+Luxembourg,2
+Malta,2
+Netherlands,2
+New Zealand,2
+Norway,2
+Portugal,2
+Switzerland,2
+Brazil,1
+British Virgin Islands,1
+Colombia,1
+Cuba,1
+Denmark,1
+Georgia,1
+Hong Kong,1
+Iceland,1
+India,1
+Japan,1
+Jersey,1
+United Arab Emirates,1
+Vietnam,1
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Città,Utenti attivi
+Lainate,8
+Paris,8
+Dublin,6
+London,4
+Milan,4
+Bollate,3
+Ashburn,2
+Bath,2
+Des Moines,2
+Malaga,2
+Oslo Municipality,2
+Rome,2
+Aarhus,1
+Alpirsbach,1
+Arjona,1
+Ath,1
+Auckland,1
+Barcelona,1
+Bayonne,1
+Belfast,1
+Bergamo,1
+Bettembourg,1
+Birmingham,1
+Bologna,1
+Braintree,1
+Cape Town,1
+Carlisle,1
+Cassano Magnago,1
+Colmenar Viejo,1
+Como,1
+Dortmund,1
+Dubai,1
+Edinburgh,1
+Eindhoven,1
+Ennis,1
+Flint Hill,1
+Forest City,1
+Fort Worth,1
+Gallatin,1
+Grapevine,1
+Hasselt,1
+Havana,1
+Helensburgh,1
+Ho Chi Minh City,1
+Hong Kong,1
+Inkberrow,1
+Johannesburg,1
+Kariega,1
+Las Palmas de Gran Canaria,1
+Lauro de Freitas,1
+Lausanne,1
+Leeds,1
+Lisbon,1
+Lostock Hall,1
+Luxembourg,1
+Lyon,1
+Madrid,1
+Manchester,1
+Mannheim,1
+Mondovi,1
+Morzine,1
+Munich,1
+Naaldwijk,1
+Naxxar,1
+New Haven,1
+Norwich,1
+Novara,1
+Padua,1
+Palermo,1
+Pontprennau,1
+Portsmouth,1
+Pretoria,1
+Qormi,1
+Quebec City,1
+Ratingen,1
+Reykjavik,1
+Road Town,1
+Saint-Denis,1
+Saint-Jean-sur-Richelieu,1
+Sainte-Adele,1
+Sitio de Calahonda,1
+St Helier,1
+St. Albert,1
+Stuttgart,1
+Tbilisi,1
+Toronto,1
+Toul,1
+Tournan-en-Brie,1
+Turin,1
+Valencia,1
+Varese,1
+Venice,1
+Wolverhampton,1
+Zug,1
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Modello dispositivo,Utenti attivi
+iPhone,48
+SM-A127F,2
+SM-A546B,2
+23108RN04Y,1
+23117RA68G,1
+2312DRA50G,1
+2412DPC0AG,1
+ALT-NX1,1
+CPH2173,1
+CRT-NX1,1
+DN2103,1
+M2102J20SG,1
+Moto G05,1
+Pixel 7 Pro,1
+Pixel 8,1
+SM-A047F,1
+SM-A055F,1
+SM-A065F,1
+SM-A135M,1
+SM-A165F,1
+SM-A236B,1
+SM-A326B,1
+SM-A336B,1
+SM-A528B,1
+SM-A536B,1
+SM-A536W,1
+SM-F956B,1
+SM-G610M,1
+SM-G781B,1
+SM-G998W,1
+SM-S721B,1
+SM-S901B,1
+SM-S911U1,1
+SM-S921B,1
+SM-S936U1,1
+SM-S938B,1
+SM-X200,1
+V2507,1
+VNE-LX1,1
+XT-2343-1,1
+moto g13,1
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Sistema operativo,Utenti attivi
+Android,52
+iOS,48
+Windows,22
+Macintosh,7
+Linux,4
+Chrome OS,1
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Browser,Utenti attivi
+Chrome,77
+Safari,44
+Samsung Internet,9
+Firefox,2
+Android Webview,1
+Edge,1
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Risoluzione schermo,Utenti attivi
+1920x1080,14
+360x780,9
+375x667,7
+385x854,7
+414x896,7
+1536x960,6
+390x844,6
+393x852,6
+402x874,6
+412x915,6
+320x693,4
+360x800,4
+384x832,4
+428x926,4
+375x812,3
+440x956,3
+1280x800,2
+1366x768,2
+1470x956,2
+2000x2000,2
+320x712,2
+360x804,2
+800x600,2
+1032x1376,1
+1229x820,1
+1536x864,1
+1680x1050,1
+1710x1107,1
+320x449,1
+339x753,1
+360x640,1
+360x796,1
+360x803,1
+360x840,1
+369x906,1
+375x833,1
+376x835,1
+384x854,1
+384x857,1
+385x833,1
+385x858,1
+393x873,1
+407x904,1
+412x892,1
+412x917,1
+420x912,1
+430x932,1
+432x960,1
+810x1080,1
+902x1443,1
+
+#  
+# Data di inizio: 20260201
+# Data di fine: 20260228
+Lingua,Utenti attivi
+English,95
+Italian,20
+French,12
+Spanish,2
+Dutch,1
+Portuguese,1
+

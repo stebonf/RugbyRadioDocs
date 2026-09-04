@@ -1,0 +1,24 @@
+tunnel: 7ca4a242-01a7-46a9-b159-992687ff2049
+credentials-file: C:\Users\stebo\.cloudflared_ste\7ca4a242-01a7-46a9-b159-992687ff2049.json
+origincert: C:\Users\stebo\.cloudflared_ste\cert.pem
+
+ingress:
+  - hostname: api-s1-sh.rugbyradiolive.com
+    service: http://localhost:5110
+    
+  - hostname: api-s2-sh.rugbyradiolive.com
+    service: http://localhost:5120
+    
+  - hostname: storage-sh.rugbyradiolive.com
+    service: http://localhost:5140
+
+  - hostname: blog.rugbyradiolive.com
+    service: http://localhost:5150
+
+  - hostname: bi.rugbyradiolive.com
+    service: http://localhost:5160
+
+  - hostname: seo-sh.rugbyradiolive.com
+    service: http://localhost:5170
+    
+  - service: http_status:404
